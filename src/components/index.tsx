@@ -1,0 +1,7 @@
+export { default as Articles } from './articles/Articles'
+export { default as Header } from './header/Header'
+export { default as Nav } from './navbar/Nav'
+export { default as Sellers } from './sellers/Sellers'
+export { default as Footer } from './footer/Footer'
+export { default as Collection } from './collection/Collection'
+export { default as Customers } from './customers/Customers'

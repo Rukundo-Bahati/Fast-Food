@@ -1,0 +1,15 @@
+:root {
+  --color-heading: linear-gradient(90deg, #81008c 0%, #540096 100%);
+  --color-text: rgba(40, 40, 40, 1);
+  --color-primary: rgba(227, 80, 80, 1);
+  --color-logo: rgba(206, 68, 228, 1);
+  --color-btn: rgba(151, 52, 153, 1);
+  --color-secondary: rgba(255, 255, 255, 1);
+  --color-black: rgba(0, 0, 0, 1);
+  --color-footer: rgba(51, 51, 51, 1);
+  --color-bg:  rgba(243, 189, 191, 1)
+}
+
+body {
+  font-family: "'Montserrat', sans-serif;";
+}
