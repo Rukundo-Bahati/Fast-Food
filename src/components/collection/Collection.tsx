@@ -1,4 +1,4 @@
-import { Flex, Grid, GridItem, Image, Stack, Text } from "@chakra-ui/react";
+import { Flex, GridItem, Image, Stack, Text } from "@chakra-ui/react";
 import Circle from "../Circle"; // Adjust the import path based on your project structure
 import cake1 from "../../assets/cake1.png";
 import cake2 from "../../assets/cake2.png";
